@@ -6,6 +6,8 @@
 
 `pkg install git -y && pkg install python`
 
+`pip install colorama && pip install requests`
+
 `git clone https://github.com/ProxyCKL/DOX-NUMBER`
 
 `cd DOX-NUMBER`
